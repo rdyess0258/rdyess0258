@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdyess0258
 - 👀 I’m interested in ... computer science, software development, game development, and art.
-- 🌱 I’m currently learning ... the basics of C and Github.
+- 🌱 I’m currently learning ... Python.
 - 💞️ I’m looking to collaborate on ... game development and art projects.
 - 📫 How to reach me ... its a secret.
 - 😄 Pronouns: ... he/they/it.
